@@ -51,3 +51,7 @@ Here is some example data visualizations for Florida from The Covid-19 Tracking 
 ![image](https://user-images.githubusercontent.com/71193439/111359742-435cbc00-8662-11eb-953c-393ac2919c65.png)
 
 ![image](https://user-images.githubusercontent.com/71193439/111359761-48ba0680-8662-11eb-8a26-e71970177b1a.png)
+
+<p align="center">
+  <img src="http://some_place.com/image.png" />
+</p>
