@@ -1,16 +1,16 @@
-### Analyzing-COVID-19-Data
+# Analyzing-COVID-19-Data
 **COVID-19DataSource**
 
 Website: covid19datasource.usc.edu
 
 
 In this repository, we go through three different data sources to create models to compare the data sources. The three different sources we use are:
-1. The Covid-19 Tracking Project
-2. Covid-19 Projections
-3. Covidestim
+1. The Covid-19 Tracking Project-- Reported cases,deaths and hospitalizations
+2. Covid-19 Projections-- Estimated cases and deaths
+3. Covidestim-- Estimated cases and deaths
 
 # **How to use these files**
-Simply run the whole code. The code will ask you for a state. Follow the direction given by the code and press enter. Scroll to the bottom and the statistics and data visualizations will be generated.
+Simply run the whole code. The code will ask you for a state. Follow the direction given by the code and press enter. Scroll to the bottom and the statistics,table, and data visualizations will be generated.
 
 # **Background to the models**
 The metrics we use to compare the three sources goes as follows:
@@ -37,4 +37,4 @@ Is the state reporting cases/deaths late?
 How reliable is the data sources?
 Is there discrepancies in the data?
 
-We can compare the two estimated data source (Covidestim and Covid-19 Projections) with the reported data (The COVID-19 Tracking Project) to get a better sense of the data. 
+We can compare the two estimated data sources (Covidestim and Covid-19 Projections) with the reported data (The COVID-19 Tracking Project) to get a better sense of the data. 
