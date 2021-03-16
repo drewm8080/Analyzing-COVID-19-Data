@@ -15,7 +15,7 @@ Simply run the whole code. The code will ask you for a state. Follow the directi
 # **Background to the models**
 The metrics we use to compare the three sources goes as follows:
 
-![image](https://user-images.githubusercontent.com/71193439/111357128-6639a100-865f-11eb-8627-a59e22d2cb56.png)
+![image](https://user-images.githubusercontent.com/71193439/111357201-7b163480-865f-11eb-8e77-7130f66cdea3.png)
 
 ![image](https://user-images.githubusercontent.com/71193439/111257052-d3621d80-85f0-11eb-9f00-1ce64a1e00ac.png)
 
