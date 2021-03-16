@@ -18,7 +18,7 @@ We used the Average Day of Case/Death/Hospitalization to compare the three sourc
 ![image](https://user-images.githubusercontent.com/71193439/111363976-1232ba80-8667-11eb-9ae5-d57cf4f191c5.png)
 
 
-Next, we looked at the ratios,difference of Average Day of Death/Hospitalization and Average Day of Case, and finally the CDFs of cases,deaths, and hospitalizations. 
+Next, we looked at the ratios,difference of Average Day of Death/Hospitalization and Average Day of Case, and finally the CDFs of cases,deaths, and hospitalizations: 
 
 ![image](https://user-images.githubusercontent.com/71193439/111257178-102e1480-85f1-11eb-9ded-e60e726577a4.png)
 
