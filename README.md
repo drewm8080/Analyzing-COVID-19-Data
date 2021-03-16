@@ -24,11 +24,17 @@ Next, we looked at the ratios,difference of Average Day of Death/Hospitalization
 
 ![image](https://user-images.githubusercontent.com/71193439/111257219-1de39a00-85f1-11eb-974d-20db45c259cf.png)
 
+![image](https://user-images.githubusercontent.com/71193439/111383044-1b7b5180-867e-11eb-8984-53624ed28e0e.png)
+
 ![image](https://user-images.githubusercontent.com/71193439/111257450-8b8fc600-85f1-11eb-92b0-da0193b7f8c3.png)
+
+![image](https://user-images.githubusercontent.com/71193439/111383169-3ea60100-867e-11eb-8a68-e8db66e0c5ae.png)
 
 ![image](https://user-images.githubusercontent.com/71193439/111257530-ad894880-85f1-11eb-9e23-c0f7858f00f4.png)
 
 ![image](https://user-images.githubusercontent.com/71193439/111257562-bed25500-85f1-11eb-910e-81fedb0bfc21.png)
+
+![image](https://user-images.githubusercontent.com/71193439/111383284-609f8380-867e-11eb-95f0-c57f0602d593.png)
 
 Through these metrics, we can compare states cases/deaths and get some insights:
 
