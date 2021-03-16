@@ -15,7 +15,7 @@ Simply run the whole code. The code will ask you for a state. Follow the directi
 # **Background to the models**
 We used the Average Day of Case/Death/Hospitalization to compare the three sources goes as follows:
 
-![image](https://user-images.githubusercontent.com/71193439/111363976-1232ba80-8667-11eb-9ae5-d57cf4f191c5.png)
+![image](https://user-images.githubusercontent.com/71193439/111383855-2e425600-867f-11eb-9f37-50e4063f4fb2.png)
 
 
 Next, we looked at the ratios,difference of Average Day of Death/Hospitalization and Average Day of Case, and finally the CDFs of cases,deaths, and hospitalizations: 
