@@ -44,15 +44,11 @@ We can compare the two estimated data sources (Covidestim and Covid-19 Projectio
 
 Here is some example data visualizations for Florida from The Covid-19 Tracking Project:
 
-![image](https://user-images.githubusercontent.com/71193439/111359693-350ea000-8662-11eb-9a43-8851777c6af2.png)
+![image](https://user-images.githubusercontent.com/71193439/111359693-350ea000-8662-11eb-9a43-8851777c6af2.png?style=centerme)
 
-![image](https://user-images.githubusercontent.com/71193439/111359716-3b048100-8662-11eb-8e11-5003c6c75e4e.png)
+![image](https://user-images.githubusercontent.com/71193439/111359716-3b048100-8662-11eb-8e11-5003c6c75e4e.png?style=centerme)
 
-![image](https://user-images.githubusercontent.com/71193439/111359742-435cbc00-8662-11eb-953c-393ac2919c65.png <p align="center">
-  <img src="http://some_place.com/image.png" />
-</p>)
+![image](https://user-images.githubusercontent.com/71193439/111359742-435cbc00-8662-11eb-953c-393ac2919c65.png?style=centerme)
 
-![image](https://user-images.githubusercontent.com/71193439/111359761-48ba0680-8662-11eb-8a26-e71970177b1a.png <p align="center">
-  <img src="http://some_place.com/image.png" />
-</p>)
+![image](https://user-images.githubusercontent.com/71193439/111359761-48ba0680-8662-11eb-8a26-e71970177b1a.png?style=centerme)
 
