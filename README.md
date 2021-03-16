@@ -13,10 +13,15 @@ In this repository, we go through three different data sources to create models 
 Simply run the whole code. The code will ask you for a state. Follow the direction given by the code and press enter. Scroll to the bottom and the statistics,table, and data visualizations will be generated.
 
 # **Background to the models**
-The metrics we use to compare the three sources goes as follows:
+We used the Average Day of Case/Death/Hospitalization to compare the three sources goes as follows:
 
-AverageDayofCase = (CurrentCaseAmount - PreviousDayCaseAmount)*((DayofCase)-PreviousAverageDayofCase)/(CurrentCaseAmount)
-+PreviousAverageDayofCase
+**AverageDayofCase = (CurrentCaseAmount - PreviousDayCaseAmount)*((DayofCase)- PreviousAverageDayofCase)/(CurrentCaseAmount)+PreviousAverageDayofCase**
+
+**AverageDayofCase = (CurrentDeathAmount - PreviousDayDeathAmount)*((DayofDeath)- PreviousAverageDayofDeath)/(CurrentDeathAmount)+PreviousAverageDayofDeath**
+
+**AverageDayofHospitalization = (CurrentHospitalizationAmount - PreviousDayHospitalizationAmount)*((DayofHospitalization)- PreviousAverageDayofHospitalization)/(CurrentHospitalizationAmount)+PreviousAverageDayofHospitalization**
+
+Next, we looked at the ratios,difference of Average Day of Death/Hospitalization and Average Day of Case, and finally the CDFs of cases,deaths, and hospitalizations. 
 
 ![image](https://user-images.githubusercontent.com/71193439/111257052-d3621d80-85f0-11eb-9f00-1ce64a1e00ac.png)
 
