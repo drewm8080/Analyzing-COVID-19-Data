@@ -15,15 +15,16 @@ Simply run the whole code. The code will ask you for a state. Follow the directi
 # **Background to the models**
 We used the Average Day of Case/Death/Hospitalization to compare the three sources goes as follows:
 
-AverageDayofCase = (CurrentCaseAmount - PreviousDayCaseAmount)*((DayofCase)- PreviousAverageDayofCase)/(CurrentCaseAmount)+PreviousAverageDayofCase
+![image](https://user-images.githubusercontent.com/71193439/111358826-2b386d00-8661-11eb-86d8-5059a31844e8.png)
 
-AverageDayofCase = (CurrentDeathAmount - PreviousDayDeathAmount)*((DayofDeath)- PreviousAverageDayofDeath)/(CurrentDeathAmount)+PreviousAverageDayofDeath
 
-AverageDayofHospitalization = (CurrentHospitalizationAmount - PreviousDayHospitalizationAmount)*((DayofHospitalization)- PreviousAverageDayofHospitalization)/(CurrentHospitalizationAmount)+PreviousAverageDayofHospitalization
+![image](https://user-images.githubusercontent.com/71193439/111358857-34c1d500-8661-11eb-8084-291ab0497cf4.png)
+
+
+![image](https://user-images.githubusercontent.com/71193439/111358899-3e4b3d00-8661-11eb-89f4-a62570f3cfcc.png)
+
 
 Next, we looked at the ratios,difference of Average Day of Death/Hospitalization and Average Day of Case, and finally the CDFs of cases,deaths, and hospitalizations. 
-
-![image](https://user-images.githubusercontent.com/71193439/111257052-d3621d80-85f0-11eb-9f00-1ce64a1e00ac.png)
 
 ![image](https://user-images.githubusercontent.com/71193439/111257178-102e1480-85f1-11eb-9ded-e60e726577a4.png)
 
