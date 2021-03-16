@@ -30,8 +30,6 @@ Next, we looked at the ratios,difference of Average Day of Death/Hospitalization
 
 ![image](https://user-images.githubusercontent.com/71193439/111257562-bed25500-85f1-11eb-910e-81fedb0bfc21.png)
 
-![image](https://user-images.githubusercontent.com/71193439/111257633-dc072380-85f1-11eb-9be3-7b12234ff7fa.png)
-
 Through these metrics, we can compare states cases/deaths and get some insights:
 
 1. Is the state reporting cases/deaths late?
