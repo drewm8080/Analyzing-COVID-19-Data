@@ -34,8 +34,25 @@ Next, we looked at the ratios,difference of Average Day of Death/Hospitalization
 
 Through these metrics, we can compare states cases/deaths and get some insights:
 
-Is the state reporting cases/deaths late?
-How reliable is the data sources?
-Is there discrepancies in the data?
+1. Is the state reporting cases/deaths late?
+2. How reliable is the data sources?
+3. Is there discrepancies in the data?
 
 We can compare the two estimated data sources (Covidestim and Covid-19 Projections) with the reported data (The COVID-19 Tracking Project) to get a better sense of the data. 
+
+# **Data Visualization Example**
+
+Here is some example data visualizations for Florida from The Covid-19 Tracking Project:
+
+![image](https://user-images.githubusercontent.com/71193439/111359693-350ea000-8662-11eb-9a43-8851777c6af2.png)
+
+![image](https://user-images.githubusercontent.com/71193439/111359716-3b048100-8662-11eb-8e11-5003c6c75e4e.png)
+
+![image](https://user-images.githubusercontent.com/71193439/111359742-435cbc00-8662-11eb-953c-393ac2919c65.png)
+
+![image](https://user-images.githubusercontent.com/71193439/111359761-48ba0680-8662-11eb-8a26-e71970177b1a.png)
+
+
+
+
+![image](https://user-images.githubusercontent.com/71193439/111257633-dc072380-85f1-11eb-9be3-7b12234ff7fa.png)
