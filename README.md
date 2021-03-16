@@ -1,7 +1,7 @@
 # Analyzing-COVID-19-Data
 ## **COVID-19DataSource**
 
-Website: covid19datasource.usc.edu
+Website: (covid19datasource.usc.edu)
 
 
 In this repository, we go through three different data sources to create models to compare the data sources. The three different sources we use are:
@@ -15,8 +15,8 @@ Simply run the whole code. The code will ask you for a state. Follow the directi
 # **Background to the models**
 We used the Average Day of Case/Death/Hospitalization to compare the three sources goes as follows:
 
-AverageDayofC/D/H = (CurrentC/D/HAmount PreviousDayC/D/HAmount)*((DayofC/D/H)- PreviousAverageDayofC/D/H)/(CurrentC/D/HAmount)+PreviousAverageDayofC/D/H
-
+**AverageDayofC/D/H = (CurrentC/D/HAmount PreviousDayC/D/HAmount)*((DayofC/D/H)- PreviousAverageDayofC/D/H)/(CurrentC/D/HAmount)+PreviousAverageDayofC/D/H
+**
 
 Next, we looked at the ratios,difference of Average Day of Death/Hospitalization and Average Day of Case, and finally the CDFs of cases,deaths, and hospitalizations. 
 
