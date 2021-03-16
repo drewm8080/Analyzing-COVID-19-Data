@@ -9,10 +9,10 @@ In this repository, we go through three different data sources to create models 
 2. Covid-19 Projections
 3. Covidestim
 
-#**How to use these files**
+# **How to use these files**
 Simply run the whole code. The code will ask you for a state. Follow the direction given by the code and press enter. Scroll to the bottom and the statistics and data visualizations will be generated.
 
-#**Background to the models**
+# **Background to the models**
 The metrics we use to compare the three sources goes as follows:
 
 ![image](https://user-images.githubusercontent.com/71193439/111256906-7fefcf80-85f0-11eb-9d67-c8fbc20572b3.png)
