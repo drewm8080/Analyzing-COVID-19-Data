@@ -1,7 +1,7 @@
 # Analyzing-COVID-19-Data
 ## **COVID-19DataSource**
 
-Website: (covid19datasource.usc.edu)
+Website: [covid19datasource.usc.edu](covid19datasource.usc.edu)
 
 
 In this repository, we go through three different data sources to create models to compare the data sources. The three different sources we use are:
