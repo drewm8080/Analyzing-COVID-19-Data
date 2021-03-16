@@ -28,7 +28,7 @@ Next, we looked at the ratios,difference of Average Day of Death/Hospitalization
 
 ![image](https://user-images.githubusercontent.com/71193439/111257450-8b8fc600-85f1-11eb-92b0-da0193b7f8c3.png)
 
-![image](https://user-images.githubusercontent.com/71193439/111383169-3ea60100-867e-11eb-8a68-e8db66e0c5ae.png)
+![image](https://user-images.githubusercontent.com/71193439/111383517-b4aa6800-867e-11eb-8c3b-e712e76a2399.png)
 
 ![image](https://user-images.githubusercontent.com/71193439/111257530-ad894880-85f1-11eb-9e23-c0f7858f00f4.png)
 
