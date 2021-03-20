@@ -48,7 +48,6 @@ We can compare the two estimated data sources (Covidestim and Covid-19 Projectio
 
 Here is some example data visualizations for Florida from The Covid-19 Tracking Project:
 
-![image](https://user-images.githubusercontent.com/71193439/111360652-6340af80-8663-11eb-8e99-900a3311ba8e.png)
 
 ![image](https://user-images.githubusercontent.com/71193439/111359716-3b048100-8662-11eb-8e11-5003c6c75e4e.png?style=centerme)
 
