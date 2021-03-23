@@ -5,9 +5,10 @@ Website: [covid19datasource.usc.edu](https://covid19datasource.usc.edu/)
 
 
 In this repository, we go through three different data sources to create models to compare the data sources. The three different sources we use are:
-1. [The Covid-19 Tracking Project](https://covidtracking.com/)-- Reported cases,deaths and hospitalizations
+1. [The New York Times](https://github.com/nytimes/covid-19-data)-- Reported cases and deaths
 2. [Covid-19 Projections](https://covid19-projections.com/)-- Estimated cases and deaths
 3. [Covidestim](https://covidestim.org/)-- Estimated cases and deaths
+4. [Healthdata.gov](https://healthdata.gov/Hospital/COVID-19-Reported-Patient-Impact-and-Hospital-Capa/g62h-syeh)-- Reported Hospitalizations
 
 # **How to use these files**
 Simply run the whole code. The code will ask you for a state. Follow the direction given by the code and press enter. Scroll to the bottom and the statistics,table, and data visualizations will be generated.
@@ -42,16 +43,20 @@ Through these metrics, we can compare states cases/deaths and get some insights:
 2. How reliable is the data sources?
 3. Is there discrepancies in the data?
 
-We can compare the two estimated data sources (Covidestim and Covid-19 Projections) with the reported data (The COVID-19 Tracking Project) to get a better sense of the data. 
+We can compare the two estimated data sources (Covidestim and Covid-19 Projections) with the reported data (The New York Times) to get a better sense of the data. Finally, we plot the reported hospitalization data from healthdata.gov along with the curves of the estimated and reported data
 
 # **Data Visualization Example**
 
-Here is some example data visualizations for Florida from The Covid-19 Tracking Project:
+Here is some example data visualizations for California from The New York Times and Healthdata.gov:
+
+![image](https://user-images.githubusercontent.com/71193439/112216000-66a1e100-8bf7-11eb-8ed2-0bec91dd4aec.png)
+
+![image](https://user-images.githubusercontent.com/71193439/112216016-6b669500-8bf7-11eb-9ce2-7d4585af70b0.png)
+
+![image](https://user-images.githubusercontent.com/71193439/112216041-71f50c80-8bf7-11eb-9f54-2fc0dab0bd6b.png)
+
+![image](https://user-images.githubusercontent.com/71193439/112216058-76b9c080-8bf7-11eb-9ae9-b8480f7e8a92.png)
 
 
-![image](https://user-images.githubusercontent.com/71193439/111359716-3b048100-8662-11eb-8e11-5003c6c75e4e.png?style=centerme)
 
-![image](https://user-images.githubusercontent.com/71193439/111359742-435cbc00-8662-11eb-953c-393ac2919c65.png?style=centerme)
-
-![image](https://user-images.githubusercontent.com/71193439/111359761-48ba0680-8662-11eb-8a26-e71970177b1a.png?style=centerme)
 
