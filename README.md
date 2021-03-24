@@ -15,7 +15,7 @@ Simply run the whole code. The code will ask you for a state. Follow the directi
 # **Background to the models**
 We used the Average Day of Case and Death to compare the three sources goes as follows:
 
-![image](https://user-images.githubusercontent.com/71193439/111383855-2e425600-867f-11eb-9f37-50e4063f4fb2.png)
+![image](https://user-images.githubusercontent.com/71193439/112330975-e6c75580-8c8e-11eb-85ad-3535f58b4449.png)
 
 
 Next, we looked at the ratios,difference of Average Day of Death and Average Day of Case, and finally the CDFs of cases and deaths: 
