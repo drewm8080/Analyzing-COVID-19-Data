@@ -2,7 +2,7 @@
 ## **COVID-19DataSource**
 
 Website: [covid19datasource.usc.edu](https://covid19datasource.usc.edu/)
-
+NOTE: This is an on-going repository and is constantly being updated. 
 
 In this repository, we go through three different data sources to create models to compare the data sources. The three different sources we use are:
 1. [CDC Data](https://data.cdc.gov/Case-Surveillance/United-States-COVID-19-Cases-and-Deaths-by-State-o/9mfq-cb36)-- Reported cases and deaths
