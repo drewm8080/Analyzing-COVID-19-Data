@@ -45,8 +45,6 @@ Here is some example data visualizations from Covidestim for California:
 
 ![image](https://user-images.githubusercontent.com/71193439/112328574-d910d080-8c8c-11eb-8fc6-0f97f7b34c8a.png)
 
-![image](https://user-images.githubusercontent.com/71193439/112328592-ddd58480-8c8c-11eb-8561-365fa40deca7.png)
-
 ![image](https://user-images.githubusercontent.com/71193439/112328613-e332cf00-8c8c-11eb-8da0-807e22d9fa0e.png)
 
 
