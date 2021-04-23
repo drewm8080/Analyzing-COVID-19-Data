@@ -42,11 +42,7 @@ We can compare the two estimated data sources (Covidestim and Covid-19 Projectio
 
 Here is some example data visualizations from Covidestim for California:
 
-![image](https://user-images.githubusercontent.com/71193439/112328552-d4e4b300-8c8c-11eb-910e-0ceda83c73bf.png)
-
-![image](https://user-images.githubusercontent.com/71193439/112328574-d910d080-8c8c-11eb-8fc6-0f97f7b34c8a.png)
-
-![image](https://user-images.githubusercontent.com/71193439/112328613-e332cf00-8c8c-11eb-8da0-807e22d9fa0e.png)
+![image](https://user-images.githubusercontent.com/71193439/115917317-0dbaa800-a444-11eb-9b57-b343b4fc0c60.png)
 
 
 
