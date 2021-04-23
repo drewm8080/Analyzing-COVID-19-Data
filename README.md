@@ -32,9 +32,10 @@ Next, we looked at the ratios,difference of Average Day of Death and Average Day
 
 Through these metrics, we can compare states cases/deaths and get some insights:
 
-1. Is the state reporting cases/deaths late?
-2. How reliable are the data sources?
-3. Is there discrepancies in the data?
+1. When is the pandemic growing or waning?
+2. Is the state reporting cases/deaths late?
+3. How reliable are the data sources?
+4. Is there discrepancies in the data?
 
 We can compare the two estimated data sources (Covidestim and Covid-19 Projections) with the reported data (CDC Data) to get a better sense of the data.
 # **Data Visualization Example**
