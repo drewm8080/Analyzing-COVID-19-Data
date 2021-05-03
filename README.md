@@ -13,9 +13,10 @@ In this repository, we go through three different data sources to create models 
 Simply run the whole code. The code will ask you for a state. Follow the direction given by the code and press enter. Scroll to the bottom and the statistics,table, and data visualizations will be generated.
 
 # **Background to the models**
-We used the Average Day of Case and Death to compare the three sources goes as follows:
-
-![image](https://user-images.githubusercontent.com/71193439/112330975-e6c75580-8c8e-11eb-85ad-3535f58b4449.png)
+We created a metrics called "Average Day of Case" and "Average Day of Death":
+  1. These metrics capture the growing and waning of the pandemic
+  2. Average Day of Death should be greater than Average Day of Case because people get the disease and then unfortunatly pass away
+  3. When Average Day of Case is greater than Average Day of death, this is an indicator of a growth in cases
 
 
 Next, we looked at the ratios,difference of Average Day of Death and Average Day of Case, and finally the CDFs of cases and deaths: 
