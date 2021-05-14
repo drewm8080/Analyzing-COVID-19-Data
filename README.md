@@ -9,7 +9,7 @@ In this repository, we go through three different data sources to create models 
 2. [Covid-19 Projections](https://covid19-projections.com/)-- Estimated cases and deaths
 3. [Covidestim](https://covidestim.org/)-- Estimated cases and deaths
 
-# **Poster Presentation of the Research**
+# **Summary**
 <img width="900" alt="Andrew_Moore_Poster" src="https://user-images.githubusercontent.com/71193439/118334416-9379c280-b4db-11eb-9f8c-000255d3d847.png">
 
 
