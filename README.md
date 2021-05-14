@@ -39,6 +39,10 @@ Through these metrics, we can compare states cases/deaths and get some insights:
 4. Is there discrepancies in the data?
 
 We can compare the two estimated data sources (Covidestim and Covid-19 Projections) with the reported data (CDC Data) to get a better sense of the data.
+
+# **Poster Presentation of the Research**
+<img width="900" alt="Andrew_Moore_Poster" src="https://user-images.githubusercontent.com/71193439/118334416-9379c280-b4db-11eb-9f8c-000255d3d847.png">
+
 # **Data Visualization Example**
 
 Here is some example data visualizations from Covidestim for California:
