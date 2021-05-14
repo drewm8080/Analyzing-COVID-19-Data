@@ -18,9 +18,8 @@ Simply run the whole code. The code will ask you for a state. Follow the directi
 
 # **Background to the models**
 We created metrics called "Average Day of Case" and "Average Day of Death":
-  1. These metrics capture the growing and waning of the pandemic.
-  2. Average Day of Death should be greater than Average Day of Case because people get the disease and then unfortunatly pass away.
-  3. When Average Day of Case is greater than Average Day of death, this is an indicator of a growth in cases.
+  1. When Average Day of Death is greater than Average Day of Case,this is an indicator of a wanining of the pandemic.
+  2. When Average Day of Case is greater than Average Day of Death, this is an indicator of a growth of the pandemic.
 
 
 Next, we looked at the ratios,difference of Average Day of Death and Average Day of Case, and finally the CDFs of cases and deaths: 
