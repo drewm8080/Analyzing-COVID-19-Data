@@ -13,7 +13,7 @@ In this repository, we go through three different data sources to create models 
 Simply run the whole code. The code will ask you for a state. Follow the direction given by the code and press enter. Scroll to the bottom and the statistics,table, and data visualizations will be generated.
 
 # **Background to the models**
-We created a metrics called "Average Day of Case" and "Average Day of Death":
+We created metrics called "Average Day of Case" and "Average Day of Death":
   1. These metrics capture the growing and waning of the pandemic.
   2. Average Day of Death should be greater than Average Day of Case because people get the disease and then unfortunatly pass away.
   3. When Average Day of Case is greater than Average Day of death, this is an indicator of a growth in cases.
