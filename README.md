@@ -9,6 +9,10 @@ In this repository, we go through three different data sources to create models 
 2. [Covid-19 Projections](https://covid19-projections.com/)-- Estimated cases and deaths
 3. [Covidestim](https://covidestim.org/)-- Estimated cases and deaths
 
+# **Poster Presentation of the Research**
+<img width="900" alt="Andrew_Moore_Poster" src="https://user-images.githubusercontent.com/71193439/118334416-9379c280-b4db-11eb-9f8c-000255d3d847.png">
+
+
 # **How to use these files**
 Simply run the whole code. The code will ask you for a state. Follow the direction given by the code and press enter. Scroll to the bottom and the statistics,table, and data visualizations will be generated.
 
@@ -40,8 +44,6 @@ Through these metrics, we can compare states cases/deaths and get some insights:
 
 We can compare the two estimated data sources (Covidestim and Covid-19 Projections) with the reported data (CDC Data) to get a better sense of the data.
 
-# **Poster Presentation of the Research**
-<img width="900" alt="Andrew_Moore_Poster" src="https://user-images.githubusercontent.com/71193439/118334416-9379c280-b4db-11eb-9f8c-000255d3d847.png">
 
 # **Data Visualization Example**
 
