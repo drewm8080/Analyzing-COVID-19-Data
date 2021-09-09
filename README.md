@@ -20,10 +20,9 @@ Simply run the whole code. The code will ask you for a state. Follow the directi
 
 # **Data Visualization Example**
 
-Here is some example data visualizations from Covidestim for California:
+Here is some example data visualizations from Covidestim for Florida:
 
-![image](https://user-images.githubusercontent.com/71193439/115917317-0dbaa800-a444-11eb-9b57-b343b4fc0c60.png)
-
+![image](https://user-images.githubusercontent.com/71193439/132738537-8a6453c4-f9a6-44fb-94a7-4ae7276fce7a.png)
 
 
 
