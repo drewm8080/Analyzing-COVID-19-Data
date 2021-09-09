@@ -3,6 +3,7 @@
 
 Website: [covid19datasource.usc.edu](https://covid19datasource.usc.edu/)
 NOTE: This is an on-going repository and is constantly being updated. 
+
 [Research Paper](https://www.medrxiv.org/content/10.1101/2021.08.30.21262851v1)
 
 In this repository, we go through three different data sources to create models to compare the data sources. The three different sources we use are:
